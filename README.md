@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Um desenvolvedor tech apaixonado com ampla experiência em desenvolvimento digital, front-end e full-stack. Com uma carreira consolidada em empresas como Accenture Song e REsight, tenho uma sólida compreensão de várias tecnologias, desde SQL, PHP e Flutter até React.js e Node.js.
-🔭 **Atualmente trabalhando como**: Analista Sênior de Desenvolvimento Digital na Accenture Song.
+A passionate tech developer with extensive experience in digital development, front-end, and full-stack engineering. With a solid career at companies such as Accenture Song and REsight, I possess a strong grasp over a multitude of technologies, ranging from SQL, PHP, and Flutter to React.js and Node.js.
 
-**Atualmente mais focado em**:
+🔭 **Currently working as**: Senior Digital Tech Developer Analyst at Accenture Song.
+
+**Actually focus in**:
 <div style="display: inline;">
 <img width="50" height="50" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="50" height="50" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
@@ -27,20 +28,20 @@ Um desenvolvedor tech apaixonado com ampla experiência em desenvolvimento digit
 <img width="50" height="50" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
 </div>
 
-🌱 **Competências principais**:
+🌱 **Core Skills**:
 
-**Linguagens**: SQL, PHP, JavaScript.
+**Languages**: SQL, PHP, JavaScript.
 **Frameworks/Libraries**: Flutter, React.js, Node.js.
-**Outros**: Desenvolvimento de Front-End, API REST, CSS.
+**Others**: Front-End Development, REST API, CSS.
 
-👨‍💼 **Experiência Profissional**:
+👨‍💼 **Professional Experience**:
 
-**Accenture Song**: Analista Sênior de Desenvolvimento Digital (1 ano e 5 meses)
-**REsight**: Líder Técnico (8 meses) & Desenvolvedor de Software (1 ano e 10 meses)
-**Experity - Customer Experience Group**: Consultor de CRM (2 anos e 2 meses)
-🎓 **Estágio**: Desenvolvimento e manutenção de sistemas de pagamentos no Itaú Unibanco.
+**Accenture Song**: Senior Digital Tech Developer Analyst (1 year and 5 months)
+**REsight**: Technical Leader (8 months) & Software Developer (1 year and 10 months)
+**Experity - Customer Experience Group**: CRM Consultant (2 years and 2 months)
+🎓 **Internship**:  Focused on the development and maintenance of payment systems at Itaú Unibanco.
 
-📫 **Como entrar em contato**:
+📫 **How to reach me**:
 
 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-848255163/)
 **Email**: pedrohns97@hotmail.com
